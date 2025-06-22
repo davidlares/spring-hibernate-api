@@ -1,4 +1,4 @@
-## davidJavAPI
+## spring-hiberate-api
 
  Desarrollo de una API Test (Pre-deployed) construida con Java, usando Hibernate ORM y Spring Framework
 
