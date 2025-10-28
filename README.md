@@ -1,32 +1,32 @@
-## spring-hiberate-api
+## Spring Hibernate API
 
- Desarrollo de una API Test (Pre-deployed) construida con Java, usando Hibernate ORM y Spring Framework
+Development of a Test API (Pre-deployed) built with Java, using the Hibernate ORM and Spring Framework
 
-## Requisitos
+## Requirements
 
 - Java SDK 1.8
 - MySQL
 - STS IDE
--
 
 ## Build Setup
 
-``` 
-## corre el script SQL con la base de datos
+```
+## Run the SQL script with the database
 
-  - ver script.sql (y los archivos de conf de Hibernate)
+- View script.sql (and Hibernate conf files)
 
-## URLS disponibles (algunas)
-  - /v1/socialMedias
-  - /v1/socialMedias/1
-  - /v1/teachers
-  - ... 
+## Available URLs (some)
+- /v1/socialMedias
+- /v1/socialMedias/1
+- /v1/teachers
+- ...
 
-# Correr servidor
+# Run the server
 Run as - Spring Boot App
 ```
-## Créditos
-[David E Lares S](https://davidlares.com)
 
-## Licencia
+## Credits
+[David Lares S](https://davidlares.com)
+
+## License
 [MIT](https://opensource.org/licenses/MIT)
